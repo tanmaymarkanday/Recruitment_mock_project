@@ -1,6 +1,6 @@
 # Recruitment Mock Project
 
-This is a mock project simulating a virtual campus recruitment drive. It involves sourcing candidates, evaluating them using a screening rubric, and shortlisting the top profiles based on specific criteria.
+This is a mock project simulating a virtual US staffing recruitment drive. It involves sourcing candidates, evaluating them using a screening rubric, and shortlisting the top profiles based on specific criteria.
 
 ---
 
