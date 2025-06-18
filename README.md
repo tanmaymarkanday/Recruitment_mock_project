@@ -41,7 +41,7 @@ To demonstrate basic recruitment process simulation using Excel data analysis an
 ## 📇 Author
 
 **Tanmay Markanday**  
-[LinkedIn Profile](https://www.linkedin.com/in/tanmaymarkanday)  
+[LinkedIn Profile]*(www.linkedin.com/in/tanmay-markanday-14177a197)*  
 Email: *Markanday19@gmail.com*
 
 ---
