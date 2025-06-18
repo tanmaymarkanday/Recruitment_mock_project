@@ -13,6 +13,8 @@ This is a mock project simulating a virtual US staffing recruitment drive. It in
 | `RN_Screening_Rubric_Final.xlsx`  | The rubric used to evaluate and score candidates. |
 | `selected_candidates_meeting.xlsx`| Final list of selected candidates after screening. |
 | `Shortlisted_Top_10_Candidates.xlsx` | Top 10 candidates based on total evaluation score. |
+| `Project_Documentation.docx`      | Full project report including objectives, process, results, and conclusions. |
+
 
 ---
 
